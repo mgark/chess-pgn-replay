@@ -1,0 +1,8 @@
+build
+compile_commands.json
+.cache
+./data
+./data/input.dat
+./data/input2.dat
+data/input.dat
+data/input2.dat

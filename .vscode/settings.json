@@ -1,0 +1,37 @@
+{
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
+    "editor.quickSuggestionsDelay": 0,
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.windows": "C:\\cygwin64\\bin\\bash.exe",
+    "terminal.integrated.env.windows": {
+        "CHERE_INVOKING": "1"
+    },
+    "terminal.integrated.shellArgs.windows": [
+        "--login",
+        "-i"
+    ],
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "remote.SSH.remotePlatform": {
+        "192.168.56.7": "linux"
+    },
+    "editor.fontSize": 16,
+    "terminal.integrated.shellArgs.linux": [
+        "-l",
+        "-i"
+    ],
+    "files.associations": {},
+    "cmake.configureOnOpen": false,
+    "cmake.buildDirectory": "${workspaceRoot}/build/${buildType}",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never"
+}
